@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/_nandha_raina_" target="blank"><img src="https://img.shields.io/twitter/follow/_nandha_raina_?logo=twitter&style=for-the-badge" alt="_nandha_raina_" /></a> </p>
 
-- 🔭 I’m currently working on **Track Back**
+- 🔭 I’m currently Studying in **Qspider, Velachery**
 
 - 🌱 I’m currently learning **Full Stack Java**
 
