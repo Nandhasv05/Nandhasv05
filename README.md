@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/_nandha_raina_" target="blank"><img src="https://img.shields.io/twitter/follow/_nandha_raina_?logo=twitter&style=for-the-badge" alt="_nandha_raina_" /></a> </p>
 
-- 🔭 I’m currently Studying in **Qspider, Velachery**
+- 🔭 I’m currently Working in **kapiital kapslock, Chennai**
 
-- 🌱 I’m currently learning **Full Stack Java**
+- 🌱 I’m currently Domain **Php,React Native,Type Script**
 
-- 💬 Ask me about **Core java,Web tech**
+  - 💬 Ask me about **Web Application && Mobile App Developer**
 
 - 📫 How to reach me **nandhakumarsv2002@gmail.com**
 
