@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently Working in **kapiital kapslock, Chennai**
 
-- 🌱 I’m currently Domain **Php,React Native,Type Script**
+- 🌱 I’m currently Working Domain **Php,React Native,Type Script**
 
   - 💬 Ask me about **Web Application && Mobile App Developer**
 
