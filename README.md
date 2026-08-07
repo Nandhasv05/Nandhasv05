@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/_nandha_raina_" target="blank"><img src="https://img.shields.io/twitter/follow/_nandha_raina_?logo=twitter&style=for-the-badge" alt="_nandha_raina_" /></a> </p>
 
-- 🔭 I’m currently Working in **kapiital kapslock, Chennai**
 
 - 🌱 I’m currently Working Domain **Php,React Native,Type Script**
 
