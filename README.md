@@ -372,12 +372,6 @@ CI/CD                       █████████
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=nandhasv05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400"
-  height="180"
-  alt="Nandhakumar GitHub Stats"
-/>
-
-<img
   src="https://github-readme-streak-stats.herokuapp.com/?user=nandhasv05&theme=tokyonight&hide_border=true&cache_seconds=86400"
   height="180"
   alt="GitHub Streak"
