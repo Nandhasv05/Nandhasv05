@@ -387,32 +387,7 @@ CI/CD                       █████████
 
 ---
 
-# 💻 Most Used Languages
 
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhasv05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
-  height="180"
-  alt="Most Used Languages"
-/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=nandhasv05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"
-  alt="GitHub Trophies"
-/>
-
-</div>
-
----
 
 # 📈 Contribution Activity
 
