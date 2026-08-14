@@ -371,9 +371,17 @@ CI/CD                       █████████
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=nandhasv05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=nandhasv05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400"
+  height="180"
+  alt="Nandhakumar GitHub Stats"
+/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nandhasv05&theme=tokyonight&hide_border=true" height="180"/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=nandhasv05&theme=tokyonight&hide_border=true&cache_seconds=86400"
+  height="180"
+  alt="GitHub Streak"
+/>
 
 </div>
 
@@ -383,27 +391,37 @@ CI/CD                       █████████
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhasv05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nandhasv05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400"
+  height="180"
+  alt="Most Used Languages"
+/>
 
 </div>
 
 ---
 
-# 🏆 GitHub Trophy
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nandhasv05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" />
+<img
+  src="https://github-profile-trophy.vercel.app/?username=nandhasv05&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4"
+  alt="GitHub Trophies"
+/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=nandhasv05&theme=tokyo-night&hide_border=true&area=true"
+  alt="GitHub Activity Graph"
+/>
 
 </div>
 
